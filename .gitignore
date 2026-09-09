@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Test coverage
+coverage/
+
+# Environment variables (API keys / secrets)
+.env
+.env.local
+.env.development
+.env.production
+.env*.local
+
+# Allow example environment file
+!.env.example
+
+# System files
+.DS_Store
+
+# Logs
+*.log

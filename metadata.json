@@ -1,0 +1,10 @@
+{
+  "name": "Lingofi",
+  "description": "Official IELTS Academic Examination & Assessment Platform by Lingofi, featuring authentic 80-test battery across Reading, Listening, Writing, and Speaking with live audio transcription, examiner AI scoring, and verifiable official Test Report Form (TRF) certificates.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

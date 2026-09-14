@@ -1,0 +1,10 @@
+{
+  "name": "Lingofi",
+  "description": "Official IELTS Academic Examination & Assessment Platform by Lingofi with 80 standard tests, 20 full 4-skill simulations, 110+ SEO-optimized masterclass stories, YouTube video lecture streaming, and verifiable official Test Report Form (TRF) certificates.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

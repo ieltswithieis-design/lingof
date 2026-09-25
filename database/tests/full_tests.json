@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Full IELTS Academic Test 1",
+    "subTitle": "Cambridge Academic Mock Examination 1 • Science & Environment",
+    "readingId": 1,
+    "listeningId": 1,
+    "writingId": 1,
+    "speakingId": 1,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 2,
+    "title": "Full IELTS Academic Test 2",
+    "subTitle": "Cambridge Academic Mock Examination 2 • Society & Urban Dynamics",
+    "readingId": 2,
+    "listeningId": 2,
+    "writingId": 2,
+    "speakingId": 2,
+    "difficulty": "Standard Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 3,
+    "title": "Full IELTS Academic Test 3",
+    "subTitle": "Cambridge Academic Mock Examination 3 • Technology & Cognitive Science",
+    "readingId": 3,
+    "listeningId": 3,
+    "writingId": 3,
+    "speakingId": 3,
+    "difficulty": "High Stakes Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 4,
+    "title": "Full IELTS Academic Test 4",
+    "subTitle": "Cambridge Academic Mock Examination 4 • Climate, Oceans & Ecology",
+    "readingId": 4,
+    "listeningId": 4,
+    "writingId": 4,
+    "speakingId": 4,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 5,
+    "title": "Full IELTS Academic Test 5",
+    "subTitle": "Cambridge Academic Mock Examination 5 • Economics & Global Logistics",
+    "readingId": 5,
+    "listeningId": 5,
+    "writingId": 5,
+    "speakingId": 5,
+    "difficulty": "Standard Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 6,
+    "title": "Full IELTS Academic Test 6",
+    "subTitle": "Cambridge Academic Mock Examination 6 • Higher Education & Linguistics",
+    "readingId": 6,
+    "listeningId": 6,
+    "writingId": 6,
+    "speakingId": 6,
+    "difficulty": "High Stakes Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 7,
+    "title": "Full IELTS Academic Test 7",
+    "subTitle": "Cambridge Academic Mock Examination 7 • Renewable Energy & Architecture",
+    "readingId": 7,
+    "listeningId": 7,
+    "writingId": 7,
+    "speakingId": 7,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 8,
+    "title": "Full IELTS Academic Test 8",
+    "subTitle": "Cambridge Academic Mock Examination 8 • Healthcare Innovations & Nutrition",
+    "readingId": 8,
+    "listeningId": 8,
+    "writingId": 8,
+    "speakingId": 8,
+    "difficulty": "Standard Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 9,
+    "title": "Full IELTS Academic Test 9",
+    "subTitle": "Cambridge Academic Mock Examination 9 • Astronomy, Space & Exploration",
+    "readingId": 9,
+    "listeningId": 9,
+    "writingId": 9,
+    "speakingId": 9,
+    "difficulty": "High Stakes Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 10,
+    "title": "Full IELTS Academic Test 10",
+    "subTitle": "Cambridge Academic Mock Examination 10 • Psychology & Human Behavior",
+    "readingId": 10,
+    "listeningId": 10,
+    "writingId": 10,
+    "speakingId": 10,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 11,
+    "title": "Full IELTS Academic Test 11",
+    "subTitle": "Cambridge Academic Mock Examination 11 • Transportation & Smart Cities",
+    "readingId": 11,
+    "listeningId": 11,
+    "writingId": 11,
+    "speakingId": 11,
+    "difficulty": "Standard Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 12,
+    "title": "Full IELTS Academic Test 12",
+    "subTitle": "Cambridge Academic Mock Examination 12 • Literature, History & Archaeology",
+    "readingId": 12,
+    "listeningId": 12,
+    "writingId": 12,
+    "speakingId": 12,
+    "difficulty": "High Stakes Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 13,
+    "title": "Full IELTS Academic Test 13",
+    "subTitle": "Cambridge Academic Mock Examination 13 • Marine Biology & Conservation",
+    "readingId": 13,
+    "listeningId": 13,
+    "writingId": 13,
+    "speakingId": 13,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 14,
+    "title": "Full IELTS Academic Test 14",
+    "subTitle": "Cambridge Academic Mock Examination 14 • Artificial Intelligence & Ethics",
+    "readingId": 14,
+    "listeningId": 14,
+    "writingId": 14,
+    "speakingId": 14,
+    "difficulty": "Standard Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 15,
+    "title": "Full IELTS Academic Test 15",
+    "subTitle": "Cambridge Academic Mock Examination 15 • Global Agriculture & Food Security",
+    "readingId": 15,
+    "listeningId": 15,
+    "writingId": 15,
+    "speakingId": 15,
+    "difficulty": "High Stakes Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 16,
+    "title": "Full IELTS Academic Test 16",
+    "subTitle": "Cambridge Academic Mock Examination 16 • Anthropology & Cultural Heritage",
+    "readingId": 16,
+    "listeningId": 16,
+    "writingId": 16,
+    "speakingId": 16,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 17,
+    "title": "Full IELTS Academic Test 17",
+    "subTitle": "Cambridge Academic Mock Examination 17 • Engineering & Material Science",
+    "readingId": 17,
+    "listeningId": 17,
+    "writingId": 17,
+    "speakingId": 17,
+    "difficulty": "Standard Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 18,
+    "title": "Full IELTS Academic Test 18",
+    "subTitle": "Cambridge Academic Mock Examination 18 • Public Health & Epidemiology",
+    "readingId": 18,
+    "listeningId": 18,
+    "writingId": 18,
+    "speakingId": 18,
+    "difficulty": "High Stakes Academic",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 19,
+    "title": "Full IELTS Academic Test 19",
+    "subTitle": "Cambridge Academic Mock Examination 19 • Media, Communication & Journalism",
+    "readingId": 19,
+    "listeningId": 19,
+    "writingId": 19,
+    "speakingId": 19,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  },
+  {
+    "id": 20,
+    "title": "Full IELTS Academic Test 20",
+    "subTitle": "Cambridge Academic Mock Examination 20 • Grand Championship Master Simulation",
+    "readingId": 20,
+    "listeningId": 20,
+    "writingId": 20,
+    "speakingId": 20,
+    "difficulty": "Official Cambridge Simulation",
+    "estimatedTime": "2 hrs 45 mins"
+  }
+]
